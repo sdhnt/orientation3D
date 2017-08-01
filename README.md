@@ -6,4 +6,4 @@ See Full Working at:
 
 https://www.youtube.com/watch?v=My967t8KU2U
 
-[!(https://img.youtube.com/vi/My967t8KU2U/0.jpg)]
+[![](https://img.youtube.com/vi/My967t8KU2U/0.jpg)]
